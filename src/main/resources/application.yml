@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: "com.teradata.jdbc.TeraDriver"
+    url: "jdbc:teradata://host/database=db_name"
+    username: "username"
+    password: "passsword"
